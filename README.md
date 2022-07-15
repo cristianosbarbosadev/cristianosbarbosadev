@@ -11,8 +11,6 @@
  
 ### Vamos conversar?
  
- 📧 cristianosbarbosa.dev@gmail.com
- 
  ☎ WhatsApp (11) 93930-3368
  
 ### Acompanhe meus projetos pelo Alura - Oracle ONE
