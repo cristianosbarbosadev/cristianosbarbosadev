@@ -4,7 +4,7 @@
 
  📚 Faço curso de FrontEnd na Alura, através do projeto da ORACLE ONE. Ainda falando sobre o programa ONE, também atuei em alguns projetos individuais, onde obtive muita vivência em HTML, JAVA e CSS.
 
- 🧠 Atualmente estudando Inglês, FrontEnd, Python, User Experience, Cloud Fundamentals e Administration and Solution Architect
+ 🧠 Em paralelo Inglês e ReactJS
   
  👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe. 
  Sou determinado, empenhado, comprometido, tenho fácil aprendizado e rápida adaptação, entusiasta para aprender e sei lidar com críticas construtivas.
@@ -15,7 +15,7 @@
  
 ### Acompanhe meus projetos pelo Alura - Oracle ONE
  
- 💻 https://cristianosbarbosadev.github.io/decodificador/  
+ 💻 https://codepen.io/cristianosbarbosadev
  
  
  
