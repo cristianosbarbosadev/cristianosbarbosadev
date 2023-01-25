@@ -2,7 +2,7 @@
  
  🔥 Desenvolvedor FrontEnd 
 
- 📚 Faço curso de FrontEnd na Alura, através do projeto da ORACLE ONE. Ainda falando sobre o programa ONE, também atuei em alguns projetos individuais, onde obtive muita vivência em HTML, JAVA e CSS.
+ 📚 Faço curso de FullStack na Alura, através do projeto da Desenvolve Boticario.
 
  🧠 Em paralelo Inglês e ReactJS
   
@@ -13,7 +13,7 @@
  
  ☎ WhatsApp (11) 93930-3368
  
-### Acompanhe meus projetos pelo Alura - Oracle ONE
+### Acompanhe meus projetos pela Alura
  
  💻 https://codepen.io/cristianosbarbosadev
  
