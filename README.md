@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Cristiano Barbosa</h1>
-<h3 align="center">:speech_balloon: Bem vindo ao meu perfil GitHub 👋</h3>
+<h3 align="center">:speech_balloon: Bem vindo ao meu perfil do GitHub 👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianosbarbosadev&label=Profile%20views&color=0e75b6&style=flat" alt="cristianosbarbosadev" /> </p>
 
