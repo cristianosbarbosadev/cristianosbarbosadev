@@ -11,7 +11,7 @@
 
 - 📫 Email **cristianosbarbosa.dev@gmail.com**
 
-- 📝 Acompanhe alguns projetos [https://codepen.io/cristianosbarbosadev](https://codepen.io/cristianosbarbosadev)
+- 📝 Pagina pessoal [https://cristianosbarbosa.vercel.app/](https://cristianosbarbosa.vercel.app/)
 
 - 💬 Sobre mim 
 - **📚 Faço curso de FullStack na Alura, através do projeto da Desenvolve Boticario. 
